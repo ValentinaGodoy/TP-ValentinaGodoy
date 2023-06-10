@@ -1,2 +1,2 @@
-# TP-ValentinaGodoy
-Trabajo práctico integrador JS
+# Trabajo práctico integrador JS
+Valentina Godoy
